@@ -18,7 +18,7 @@ export default function HomePage() {
       <section className="relative bg-gradient-to-r from-primary/10 to-green-50/10 py-20 md:py-32">
         <div className="absolute inset-0">
            <Image 
-            src="https://placehold.co/1920x1080.png" 
+            src="https://res.cloudinary.com/dnkrfdjzl/image/upload/v1749588294/homes_qxaotd.png" 
             alt="Lush green plants background"
             layout="fill"
             objectFit="cover"
